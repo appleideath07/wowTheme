@@ -1,0 +1,21 @@
+/*
+Theme Name: BOOTSTRAP STARTER THEME 
+Author: DOGE-S
+Author URI: www.facebook.com/appleideath
+Description: BOOTSTRAP FOR WORDPRESS SAMPLE -> wow such theme very ez much sample wow amazed / intensified wow
+Version: 1.0
+
+
+
+
+*/
+
+/*importation of bootstrap framework*/
+@import url('css/bootstrap.min.css');
+
+/*custome code from DOGE-S*/
+@import url('css/default.css');
+
+
+/*your custom style here*/
+
